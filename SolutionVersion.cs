@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Sangmado.Inka.Logging.Log4NetIntegration")]
 [assembly: AssemblyCompany("Dennis Gao")]
 [assembly: AssemblyProduct("Sangmado.Inka.Logging.Log4NetIntegration")]
-[assembly: AssemblyCopyright("Copyright © 2015-2017, Dennis Gao, All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright © 2016-2017, Dennis Gao, All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCulture("")]
